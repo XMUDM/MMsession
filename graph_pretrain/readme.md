@@ -17,7 +17,7 @@ There are three categories, namely clothes, beauty and digital. Each category co
   |  FileName   | Content  
   |  ----  | ----  | 
   | session.csv   | session_id,query_id,split
-  | query.csv   | query_id,word_id,query_type,image_emb 
+  | query2.csv   | query_id,word_id,query_type,image_emb 
   | word.csv   | word_id,embedding 
   | session_click.csv   | session_id,item_id
 
