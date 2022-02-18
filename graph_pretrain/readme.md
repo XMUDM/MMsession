@@ -1,6 +1,6 @@
 # MM_Model
 
-This repository holds the codes for [**Understanding Multi-modal Multi-query E-commerce Search**](https://arxiv.org/abs/xxxx.xxxxx).
+This repository holds the codes for [**Pretraining Representations of Multi-modal Multi-query E-commerce Search**].
 
 ## Environmental:
 
